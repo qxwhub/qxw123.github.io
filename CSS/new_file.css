@@ -1,13 +1,9 @@
-﻿* {
+* {
 	margin: 0px;
 	padding: 0px;
 	color: #999999;
 	font-size: 12px;
 	font-family: "微软雅黑";
-	border-top-style: none;
-	border-right-style: none;
-	border-bottom-style: none;
-	border-left-style: none;
 }
 
 .alal {
@@ -48,10 +44,7 @@ a:hover {
 
 .qg_3 {
 	width: 990px;
-	margin-top: 0;
-	margin-right: auto;
-	margin-bottom: 0;
-	margin-left: auto;
+	margin: 0 auto;
 }
 
 .qg_2 {
@@ -229,7 +222,7 @@ a:hover {
 }
 
 .active {
-	background-color: #4C8BF4;
+	background: cyan;
 }
 
 .ss_y1 {
@@ -897,10 +890,3 @@ a:hover {
 
 
 
-.ys1 {
-	font-size: 14px;
-}
-.tb {
-	font-size: 18px;
-	font-weight: bold;
-}
